@@ -1,1 +1,8 @@
-A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
+A sample command-line application providing basic dart code.
+
+Data Types
+Loops
+Functions
+Class
+Object
+Constructor
